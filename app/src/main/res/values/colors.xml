@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="cold_bg_gradient_end">#8003DAC5</color>
+    <color name="cold_bg_gradient_start">#03AFDA</color>
+
+    <color name="hot_bg_gradient_end">#DD450A</color>
+    <color name="hot_bg_gradient_start">#CD9C08</color>
+
+</resources>
